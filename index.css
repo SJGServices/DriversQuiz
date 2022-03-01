@@ -1,0 +1,45 @@
+body{
+	background: linear-gradient(90deg, #99ccff, #ffcccc);
+	color: white;
+}
+
+header{
+	height: 100px;
+	text-shadow: 3px 4px #afd8eb;
+}
+
+main{
+	background: linear-gradient(111deg, #8c5e53, #51798b);
+}
+
+main label{
+	padding-bottom: 8px;
+	padding-right: 4px;
+	padding-left: 4px;
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+#contButton{
+	height: 60px;
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+.next-button-container button{
+	background-color: rgba(255, 255, 255, 0.3);
+	height: 60px;
+}
+
+footer{
+	height: 77px;
+	color: #565656;
+}
+
+
+.disable-select {
+    user-select: none; /* supported by Chrome and Opera */
+   -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+   -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+}
