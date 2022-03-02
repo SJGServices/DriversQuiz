@@ -48,14 +48,6 @@ const questions = [
         correctOption: "optionD"
     },
 	{
-        question: "Under Oklahoma law, which occupants of a vehicle must wear seat belts or suitable child restraints?",
-        optionA: "The driver and children under 13 years of age",
-        optionB: "The driver and rear-seat passengers",
-        optionC: "The driver and all passengers",
-        optionD: "The driver, front-seat passengers, and children under 13 years of age",
-        correctOption: "optionD"
-    },
-	{
         question: "At a railroad crossing, you must stop _________ from the nearest rail if a train is approaching.",
         optionA: "Between 10 and 200 feet",
         optionB: "Between 15 and 30 feet",
@@ -189,7 +181,7 @@ const questions = [
         optionB: "From 60 minutes after sunset to 60 minutes before sunrise",
         optionC: "From 30 minutes after sunset to 30 minutes before sunrise",
         optionD: "From 90 minutes after sunset to 90 minutes before sunrise",
-        correctOption: "optionB"
+        correctOption: "optionC"
     },
 	{
         question: "In city driving, you should start to signal for at least _________ before you turn, slow down, or stop.",
@@ -206,14 +198,6 @@ const questions = [
         optionC: "Change lanes",
         optionD: "Stop",
         correctOption: "optionD"
-    },
-	{
-        question: "ZZZZZZZZZZZZZZzzzz",
-        optionA: "zzzzzzzz",
-        optionB: "zzzz",
-        optionC: "zzzzzzzz",
-        optionD: "zzzz",
-        correctOption: "optionC"
     }
 
 ]
