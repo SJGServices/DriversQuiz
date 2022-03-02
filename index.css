@@ -1,6 +1,6 @@
 body{
-	background: linear-gradient(90deg, #99ccff, #ffcccc);
-	color: white;
+	background: linear-gradient(90deg, #e6eef8, #f8eaed);
+	color: black;
 }
 
 header{
@@ -9,8 +9,10 @@ header{
 }
 
 main{
-	background: linear-gradient(111deg, #8c5e53, #51798b);
+	background: linear-gradient(111deg, #8b878a, #6c7787);
+	color : white;
 }
+
 
 main label{
 	padding-bottom: 8px;

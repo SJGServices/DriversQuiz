@@ -94,6 +94,126 @@ const questions = [
         optionC: "A dashed white line",
         optionD: "A solid white line",
         correctOption: "optionC"
+    },
+	{
+        question: "For a driver who is at least 21 years of age, the legal limit for blood alcohol content (BAC) is",
+        optionA: "Lss than 0.12%",
+        optionB: "0.09% or less",
+        optionC: "Less than 0.08%",
+        optionD: "0.10% or less",
+        correctOption: "optionC"
+    },
+	{
+        question: "If a truck is trying to pass you, you can help the truck driver by",
+        optionA: "Increasing your speed",
+        optionB: "Keeping to the far side of your lane and reducing your speed slightly",
+        optionC: "Keeping to the near side of your lane and reducing your speed slightly",
+        optionD: "Reducing your speed and driving in a blind spot",
+        correctOption: "optionB"
+    },
+	{
+        question: "In Oklahoma, you must dim your headlights whenever you are within ________ of an oncoming vehicle.",
+        optionA: "600 feet",
+        optionB: "1000 feet",
+        optionC: "400 feet",
+        optionD: "500 feet",
+        correctOption: "optionB"
+    },
+	{
+        question: "When two vehicles arrive at an intersection without traffic signs or signals at about the same time, which one has the right-of-way?",
+        optionA: "The vehicle turning left",
+        optionB: "The vehicle turning right",
+        optionC: "The vehicle on the right",
+        optionD: "The vehicle on the left",
+        correctOption: "optionC"
+    },
+	{
+        question: "If you are driving slower than the other traffic on an expressway, you should use",
+        optionA: "The center lane",
+        optionB: "The right-hand lane",
+        optionC: "The shoulder",
+        optionD: "the left-hand lane",
+        correctOption: "optionB"
+    },
+	{
+        question: "For an adequate cushion of safety in front of your vehicle, use",
+        optionA: "The three-second rule",
+        optionB: "The one-second rule",
+        optionC: "The two-second rule",
+        optionD: "The four-second rule",
+        correctOption: "optionA"
+    },
+	{
+        question: "The proper hand position on the steering wheel for a solid and strong grip is",
+        optionA: "The left hand at 8:00 and the right hand at 2:00",
+        optionB: "The left hand at 11:00 and the right hand at 2:00",
+        optionC: "The left hand between 8:00 and 9:00 and the right hand between 4:00 and 5:00",
+        optionD: "The left hand between 9:00 and 10:30 and the right hand between 2:00 and 4:00",
+        correctOption: "optionD"
+    },
+	{
+        question: "On Oklahoma's expressways, the minimum speed limit is usually",
+        optionA: "30 mph",
+        optionB: "50 mph",
+        optionC: "40 mph",
+        optionD: "35 mph",
+        correctOption: "optionC"
+    },
+	{
+        question: "The stopping distance of your vehicle depends on which of the following factors?",
+        optionA: "Braking distance",
+        optionB: "Perception distance",
+        optionC: "Reaction distance",
+        optionD: "All answers are correct",
+        correctOption: "optionD"
+    },
+	{
+        question: "If you approach a vehicle with a triangular reflective orange sign on its rear, what should you do?",
+        optionA: "Slow down",
+        optionB: "Turn on your headlights",
+        optionC: "Stop",
+        optionD: "Speed up",
+        correctOption: "optionA"
+    },
+	{
+        question: "If another driver is following you too closely (tailgating you), you must",
+        optionA: "Move into the left lane",
+        optionB: "Not allow the driver to pass",
+        optionC: "Increase your speed",
+        optionD: "Slow down and encourage the driver to pass",
+        correctOption: "optionD"
+    },
+	{
+        question: "You must use your headlights _________ and whenever visibility is limited.",
+        optionA: "From 120 minutes after sunset to 120 minutes before sunrise",
+        optionB: "From 60 minutes after sunset to 60 minutes before sunrise",
+        optionC: "From 30 minutes after sunset to 30 minutes before sunrise",
+        optionD: "From 90 minutes after sunset to 90 minutes before sunrise",
+        correctOption: "optionB"
+    },
+	{
+        question: "In city driving, you should start to signal for at least _________ before you turn, slow down, or stop.",
+        optionA: "One block",
+        optionB: "A half block",
+        optionC: "A third of a block",
+        optionD: "A quarter of a block",
+        correctOption: "optionC"
+    },
+	{
+        question: "You are driving on an undivided roadway. If you approach a school bus with flashing red lights or showing a red STOP sign, you must",
+        optionA: "Pass the bus at a higher speed",
+        optionB: "Pass the bus at a lower speed",
+        optionC: "Change lanes",
+        optionD: "Stop",
+        correctOption: "optionD"
+    },
+	{
+        question: "ZZZZZZZZZZZZZZzzzz",
+        optionA: "zzzzzzzz",
+        optionB: "zzzz",
+        optionC: "zzzzzzzz",
+        optionD: "zzzz",
+        correctOption: "optionC"
     }
 
 ]
